@@ -45,6 +45,7 @@ export default function DisclaimerModal() {
             </p>
             <hr className="my-4 border-t border-b border-t-transparent" />
             <p>
+              Najlepsze filmy prosto z osiny-majorat od karol <3
             </p>
             <p>
             </p>
