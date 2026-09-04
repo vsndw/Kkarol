@@ -18,6 +18,7 @@ export default function DisclaimerPage() {
           <h1 className="text-3xl font-bold text-primary mb-6">Disclaimer</h1>
           <div className="space-y-4 text-foreground/80">
             <p>
+              Najlepsze streamy z osin majorat
             </p>
             <p>
             </p>
