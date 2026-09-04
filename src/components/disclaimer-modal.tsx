@@ -35,17 +35,17 @@ export default function DisclaimerModal() {
         <div className="flex flex-col items-center justify-center p-6 text-center">
             <AniMovieLogo className="h-14 w-14 text-primary mb-4" />
             <AlertDialogHeader>
-                <AlertDialogTitle className="text-2xl font-bold"> Disclaimer</AlertDialogTitle>
+                <AlertDialogTitle className="text-2xl font-bold">Disclaimer</AlertDialogTitle>
             </AlertDialogHeader>
         </div>
         
         <ScrollArea className="max-h-[50vh] px-6">
             <div className="space-y-4 text-sm text-muted-foreground text-left">
             <p className='font-semibold text-white/80'>
+                Karol to kochany mis ktory funduje ta strone.
             </p>
             <hr className="my-4 border-t border-b border-t-transparent" />
             <p>
-              Najlepsze filmy prosto z osiny-majorat od karol <3
             </p>
             <p>
             </p>
