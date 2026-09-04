@@ -18,7 +18,6 @@ export default function DMCAPage() {
           <h1 className="text-3xl font-bold text-primary mb-6">DMCA Notice & Takedown Policy</h1>
           <div className="space-y-4 text-foreground/80">
             <p>
-              If you are a copyright owner or authorized representative and believe that any content linked on this website infringes your rights, please send a notice containing the following information:
             </p>
             <ul className="list-disc list-inside space-y-2 pl-4">
               <li>Identification of the copyrighted work claimed to have been infringed;</li>
@@ -31,7 +30,7 @@ export default function DMCAPage() {
               Upon valid notice, we will remove or disable access to the material.
             </p>
             <p>
-              Contact: <a href="mailto:parthaforwork@outlook.com" className="text-primary hover:underline">parthaforwork@outlook.com</a>
+              Contact: <a href="mailto:parthaforwork@outlook.com" className="text-primary hover:underline">esex@karolniewczas.sex</a>
             </p>
           </div>
           <div className="mt-12 text-center">
