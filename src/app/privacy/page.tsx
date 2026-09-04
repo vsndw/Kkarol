@@ -24,7 +24,7 @@ export default function PrivacyPage() {
               <li>We do not collect, store, or share personal data.</li>
               <li>Third-party embeds such as VidSrc may use cookies or tracking technologies under their own policies.</li>
               <li>This site does not use analytics, ads, or user tracking at this time.</li>
-              <li>For any privacy concerns, contact <a href="mailto:parthaforwork@outlook.com" className="text-primary hover:underline">parthaforwork@outlook.com</a>.</li>
+              <li>For any privacy concerns, contact <a href="mailto:parthaforwork@outlook.com" className="text-primary hover:underline">karol@outlook.com</a>.</li>
             </ul>
           </div>
           <div className="mt-12 text-center">
