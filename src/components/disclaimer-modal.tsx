@@ -11,7 +11,7 @@ import {
   AlertDialogAction,
 } from '@/components/ui/alert-dialog';
 import { Button } from '@/components/ui/button';
-import { AniMovieLogo } from './icons';
+import { AniMovieLogo } from 'https://i.ibb.co/4ZMCx7qW/favicon.png';
 import { ScrollArea } from './ui/scroll-area';
 
 export default function DisclaimerModal() {
