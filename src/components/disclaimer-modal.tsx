@@ -42,7 +42,7 @@ export default function DisclaimerModal() {
         <ScrollArea className="max-h-[50vh] px-6">
             <div className="space-y-4 text-sm text-muted-foreground text-left">
             <p className='font-semibold text-white/80'>
-                Karol to kochany mis ktory funduje ta strone.
+                hej.
             </p>
             <hr className="my-4 border-t border-b border-t-transparent" />
             <p>
