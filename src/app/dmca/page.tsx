@@ -30,7 +30,7 @@ export default function DMCAPage() {
               Upon valid notice, we will remove or disable access to the material.
             </p>
             <p>
-              Contact: <a href="mailto:parthaforwork@outlook.com" className="text-primary hover:underline">esex@karolniewczas.sex</a>
+              Contact: <a href="mailto:parthaforwork@outlook.com" className="text-primary hover:underline">dmca@dmca.dmca</a>
             </p>
           </div>
           <div className="mt-12 text-center">
