@@ -43,7 +43,7 @@ export default function DisclaimerModal() {
             <div className="space-y-4 text-sm text-muted-foreground text-left">
             <p className='font-semibold text-white/80'>
                 hej karol kocham cie.
-            (sekcja anime jest aktualnie down przez to ze vidsrc zakonczyl dzialalnosc, filmy i seriale dzialaja; jak sa problemy z odtworzeniem - kliknij w panelu zeby zmienic serwer na inny a jesli napotkasz problemy z jakoscia zmien z promulti na 4k lub cinesrc)
+            (sekcja anime jest aktualnie down przez to ze vidsrc zakonczyl dzialalnosc, filmy i seriale dzialaja; jak sa problemy z odtworzeniem - kliknij w panelu zeby zmienic serwer na inny a jesli napotkasz problemy z jakoscia zmien z promulti na 4k lub cinesrc + jezeli jestes nieporadny z angielskiego i nie ma akurat napisow pamietaj ze mozesz je pobrac i zaladowac)
             </p>
             <hr className="my-4 border-t border-b border-t-transparent" />
             <p>
